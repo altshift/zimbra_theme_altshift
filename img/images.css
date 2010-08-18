@@ -1,0 +1,60 @@
+ .ImgCalendarDayGrid{background:url("@AppContextPath@/skins/twilight/img/calendar/ImgCalendarDayGrid.repeat.gif?v=100616213243") 0px 0px repeat;overflow:hidden;}
+ .bg{background:url("@AppContextPath@/skins/twilight/img/skins/bg.gif?v=100616213243") 0px 0px no-repeat;width:10px !important;height:700px !important;overflow:hidden;}
+ .ZActive .ZButtonBorder{background:url("@AppContextPath@/skins/twilight/img/skins.repeatx.gif?v=100616213243") 0px 0px repeat-x;height:22px !important;overflow:hidden;}
+ .ZButtonBorder{background:url("@AppContextPath@/skins/twilight/img/skins.repeatx.gif?v=100616213243") 0px -22px repeat-x;height:22px !important;overflow:hidden;}
+ .login_bg{
+#IFDEF MSIE
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='@AppContextPath@/skins/twilight/img/skins.png?v=100616213243',sizingMethod='image');
+#ELSE
+background: url('@AppContextPath@/skins/twilight/img/skins.png?v=100616213243') 0px 0px no-repeat;
+#ENDIF
+}
+ .message_header_bg{
+#IFDEF MSIE
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='@AppContextPath@/skins/twilight/img/skins.png?v=100616213243',sizingMethod='image');
+#ELSE
+background: url('@AppContextPath@/skins/twilight/img/skins.png?v=100616213243') 0px -386px no-repeat;
+#ENDIF
+}
+ .search_bg{
+#IFDEF MSIE
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='@AppContextPath@/skins/twilight/img/skins.png?v=100616213243',sizingMethod='image');
+#ELSE
+background: url('@AppContextPath@/skins/twilight/img/skins.png?v=100616213243') 0px -482px no-repeat;
+#ENDIF
+}
+ .app_header_hilite_bg{
+#IFDEF MSIE
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='@AppContextPath@/skins/twilight/img/skins.png?v=100616213243',sizingMethod='image');
+#ELSE
+background: url('@AppContextPath@/skins/twilight/img/skins.png?v=100616213243') 0px -514px no-repeat;
+#ENDIF
+}
+ .app_header_bg{
+#IFDEF MSIE
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='@AppContextPath@/skins/twilight/img/skins.png?v=100616213243',sizingMethod='image');
+#ELSE
+background: url('@AppContextPath@/skins/twilight/img/skins.png?v=100616213243') 0px -545px no-repeat;
+#ENDIF
+}
+ .app_panel_bg{
+#IFDEF MSIE
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='@AppContextPath@/skins/twilight/img/skins.png?v=100616213243',sizingMethod='image');
+#ELSE
+background: url('@AppContextPath@/skins/twilight/img/skins.png?v=100616213243') 0px -575px no-repeat;
+#ENDIF
+}
+ .sidebar_inbox_header_bg{
+#IFDEF MSIE
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='@AppContextPath@/skins/twilight/img/skins.png?v=100616213243',sizingMethod='image');
+#ELSE
+background: url('@AppContextPath@/skins/twilight/img/skins.png?v=100616213243') 0px -602px no-repeat;
+#ENDIF
+}
+ .sidebar_header_bg{
+#IFDEF MSIE
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='@AppContextPath@/skins/twilight/img/skins.png?v=100616213243',sizingMethod='image');
+#ELSE
+background: url('@AppContextPath@/skins/twilight/img/skins.png?v=100616213243') -3px -602px no-repeat;
+#ENDIF
+}
