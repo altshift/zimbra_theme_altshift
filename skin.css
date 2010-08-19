@@ -70,7 +70,7 @@ body, #skin_container_splash_screen	{
 
 .ZmTaskbar {
 	height:30px; 
-	background: #6f1616 url("@SkinImgDir@/app_header_bg.png") repeat-x top left;
+	background: #864e11 url("@SkinImgDir@/app_header_bg.png") repeat-x top left;
 	border: 0;
 	color: #ffffff;
 }
