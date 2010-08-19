@@ -26,7 +26,7 @@ body, #skin_container_splash_screen	{
 }
 
 #skin_container_tree_top {
-	background: #6f1616 url("@SkinImgDir@/sidebar_header_bg.png") top left repeat-x;
+	background: #864e11 url("@SkinImgDir@/sidebar_header_bg.png") top left repeat-x;
 	color: #ffffff;
 }
 
